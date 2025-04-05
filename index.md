@@ -11,19 +11,20 @@ I am a Ph.D. student at ...
 
 - Health economics, Environmental economics
 
-<!--
-## News
+## Publications
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
--->
-
-{% include_relative _includes/publications.md %}
+- “[Carbon Taxes and Tariffs, Financial Frictions, and International Spillovers](https://www.sciencedirect.com/science/article/pii/S0014292124002125)” (with Stefano Carattini, Givi Melkadze, and Aude Pommeret), *European Economic Review*, Vol. 170 (2024)
 
 ## Working Papers
-{% include_relative _includes/workingpapers.md %}
 
-{% include_relative _includes/teaching.md %}
+- “[Automation and Diverging Health Risks](https://giseong-kim.github.io/assets/files/AKKP_2025.pdf)” (with Ricardo B. Ang III, Soojin Kim, and Mike Pesko) 
 
+## Teaching
+
+<h4 style="margin:0 10px 0;">Instructor, Georgia State University</h4>
+<ul style="margin:0 0 5px;">
+  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>Mathematical Economics (ECON 4930/6030): Spring 2024</autocolor></a></li>
+</ul>
+<!--
+{% include_relative _includes/services.md %}
+-->
