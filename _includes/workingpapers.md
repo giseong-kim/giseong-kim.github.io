@@ -5,7 +5,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom:-20px;margin-top:-100px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom:-20px;margin-bottom:-100px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
