@@ -42,7 +42,7 @@
   </div>
 </div>
 </li>
-<br>
+<!--br-->
 
 {% endfor %}
 
