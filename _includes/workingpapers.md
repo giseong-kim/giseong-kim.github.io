@@ -11,17 +11,8 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">{{ link.title }}</div>
-      <div class="author" style="display: inline;">{{ link.authors }}</div>
-      {% if link.oldtitle %}
-      <span class="oldtitle"><br>previously, <i>{{ link.oldtitle }}</i></span>
-      {% endif %}
-      {% if link.status %}
-      <span class="periodical"><br><em>{{ link.status }}</em></span>
-      {% endif %}
-      {% if link.media %} 
-      <div class="media">{{ link.media }}</div>
-      {% endif %}
+      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="author">{{ link.authors }}</div>
     <div class="links">
       {% if link.abstract %} 
       <a href="#" class="btn btn-sm z-depth-0 abstract-toggle-button" role="button" style="font-size:12px;" onclick="event.preventDefault(); toggleAbstract(this);">Abstract</a>
@@ -58,16 +49,3 @@
 
 </ol>
 </div>
-
-
-<script>
-  function toggleAbstract(button) {
-    var parentDiv = button.closest('.col-sm-12');
-    if (parentDiv) {
-        var abstractContent = parentDiv.querySelector('.abstract-content');
-        if (abstractContent) {
-            abstractContent.style.display = (abstractContent.style.display === 'none') ? '' : 'none';
-        }
-    }
-  }
-</script>
