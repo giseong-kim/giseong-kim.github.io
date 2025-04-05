@@ -6,7 +6,7 @@
 {% for link in site.data.workingpapers.main %}
 
 <li>
-<div class="pub-row" style="margin: 0px 0px 0px 0px;">
+<div class="pub-row" style="margin-bottom:-100px;">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
