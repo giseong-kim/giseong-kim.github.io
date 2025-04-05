@@ -15,7 +15,7 @@ I am a Ph.D. student at ...
 
 ### Publications
 
-- “[Carbon Taxes and Tariffs, Financial Frictions, and International Spillovers](https://www.sciencedirect.com/science/article/pii/S0014292124002125)” (with Stefano Carattini, Givi Melkadze, and Aude Pommeret), *European Economic Review*, Vol. 170 (2024)
+- “[Carbon Taxes and Tariffs, Financial Frictions, and International Spillovers](https://www.sciencedirect.com/science/article/pii/S0014292124002125)” (with Stefano Carattini, Givi Melkadze, and Aude Pommeret), *European Economic Review*, 2024
 
 <br>
 
