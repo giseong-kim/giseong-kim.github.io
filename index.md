@@ -11,24 +11,19 @@ I am a Ph.D. student at ...
 
 - Health economics, Environmental economics
 
-<br>
 
 ### Publications
 
-- “[Carbon Taxes and Tariffs, Financial Frictions, and International Spillovers](https://www.sciencedirect.com/science/article/pii/S0014292124002125)” (with Stefano Carattini, Givi Melkadze, and Aude Pommeret), *European Economic Review*, 2024
+{% include_relative _includes/publications.md %}
 
-<br>
 
 ### Working Papers
 
-- “[Automation and Diverging Health Risks](https://giseong-kim.github.io/assets/files/AKKP_2025.pdf)” (with Ricardo B. Ang III, Soojin Kim, and Mike Pesko) 
-
-<br>
+{% include_relative _includes/workingpapers.md %}
 
 ### Teaching
 
-- Instructor, Georgia State University
-  - Mathematical Economics (ECON 4930/6030), Spring 2024
+{% include_relative _includes/teaching.md %}
   
 <!--h4 style="margin:0 10px 0;">Instructor, Georgia State University</h4>
 <ul style="margin:0 0 5px;">
