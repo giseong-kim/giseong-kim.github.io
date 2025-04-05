@@ -1,4 +1,3 @@
-## Teaching
 
 <h4 style="margin:0 10px 0;">Instructor, Georgia State University</h4>
 
