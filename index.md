@@ -9,8 +9,8 @@ I am a Ph.D. student at ...
 
 ### Research Interests
 
-<ul style="margin:0 0 5px;">
-  <li>- Health economics, Environmental economics</li>
+<ul style="margin:0px;">
+  <li> Health economics, Environmental economics</li>
 </ul>
   
 <br>
