@@ -11,17 +11,6 @@ main:
     notes: 
     image: 
     
-  - title: "Automation and Diverging Health Risks"
-    authors: (with Ricardo B. Ang III, Soojin Kim, and Mike Pesko) 
-    conference_short: 
-    conference: 
-    pdf: https://giseong-kim.github.io/assets/files/AKKP_2025.pdf
-    code: 
-    page: 
-    bibtex: 
-    notes: 
-    image: 
-    
 #  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
 #    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
 #    conference_short: MICCAI
