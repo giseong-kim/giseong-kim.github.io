@@ -62,14 +62,6 @@
         {% endif %}
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
-
-        <br>
-        <br>
-        {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}" target="_blank">
-          Curriculum Vitae
-        </a>
-        {% endif %}
         
         <br>
         {% endif %}
@@ -80,6 +72,14 @@
         <br>
         {% if site.email_alt %}
         <email>{{ site.email_alt }}</email>
+        {% endif %}
+
+        <br>
+        <br>
+        {% if site.cv_link %}
+        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}" target="_blank">
+          Curriculum Vitae
+        </a>
         {% endif %}
 
         <!--br-->
