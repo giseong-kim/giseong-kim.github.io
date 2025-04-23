@@ -5,7 +5,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: 100px;">
       <div class="title">{{ link.title }}</div>
       {% if link.authors %} <div class="author">{{ link.authors }}</div> {% endif %}
       <div class="periodical"><em>{{ link.conference }}</em>
@@ -33,10 +33,10 @@
   </div>
 </div>
 </li>
+<!--br-->
 
 {% endfor %}
 
 </ol>
 </div>
 
-<br>
