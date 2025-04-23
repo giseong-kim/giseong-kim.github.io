@@ -4,11 +4,9 @@ layout: homepage
 
 ### Research Interests
 
-<ul style="padding-bottom: 20px;">
+<ul style="padding-bottom: 5px;">
   <li> Health economics, Environmental economics</li>
 </ul>
-  
-<br>
 
 ### Publications
 
