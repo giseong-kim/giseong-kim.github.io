@@ -19,6 +19,10 @@ layout: homepage
 
 {% include_relative _includes/workingpapers.md %}
 
+### Work in Progress
+
+{% include_relative _includes/wip.md %}
+
 ### Teaching
 
 {% include_relative _includes/teaching.md %}
