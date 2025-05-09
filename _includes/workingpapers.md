@@ -9,6 +9,9 @@
     {% if link.pdf %}   
       <div class="title"><a href="{{ link.pdf }}" target="_blank">{{ link.title }}</a></div>
     {% endif %}
+    {% !if link.pdf %}   
+      <div class="title"><a href="{{ link.pdf }}" target="_blank">{{ link.title }}</a></div>
+    {% endif %}
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
