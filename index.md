@@ -17,8 +17,6 @@ layout: homepage
 
 {% include_relative _includes/workingpapers.md %}
 
-{% include_relative _includes/wip.md %}
-
 ### Teaching
 
 {% include_relative _includes/teaching.md %}
