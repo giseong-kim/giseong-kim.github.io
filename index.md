@@ -17,9 +17,7 @@ layout: homepage
 
 {% include_relative _includes/workingpapers.md %}
 
-[//]: # ### Work in Progress
-
-[//]: # {% include_relative _includes/wip.md %}
+{% include_relative _includes/wip.md %}
 
 ### Teaching
 
