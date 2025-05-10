@@ -11,17 +11,6 @@ main:
     notes: 
     image: 
     
-  - title: "Carbon Taxes and Tariffs, Financial Frictions, and International Spillovers"
-    authors: (with Stefano Carattini, Givi Melkadze, and Aude Pommeret)
-    conference_short: 
-    conference: European Economic Review, 2024
-    pdf: https://www.sciencedirect.com/science/article/pii/S0014292124002125
-    code: 
-    page: 
-    bibtex: 
-    notes: 
-    image: 
-    
 #  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
 #    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
 #    conference_short: MICCAI
