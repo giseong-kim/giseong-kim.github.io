@@ -5,7 +5,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px; padding-bottom: 5px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px; padding-bottom: 10px;">
     {% if link.pdf %}   
       <div class="title"><a href="{{ link.pdf }}" target="_blank">{{ link.title }}</a></div>
     {% else %}
