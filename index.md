@@ -13,7 +13,7 @@ layout: homepage
 {% include_relative _includes/publications.md %}
 
 
-### Working Papers & Work in Progress
+### Working Papers 
 
 {% include_relative _includes/workingpapers.md %}
 
